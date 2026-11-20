@@ -8,12 +8,6 @@
   <a href="www.linkedin.com/in/enzo-baroni-71a03b21b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://youtube.com/@TON-COMPTE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://twitter.com/TON-COMPTE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
 </div>
 
 <br>
@@ -27,20 +21,20 @@
 
 ### 👩‍💻 About Me
 
-I'm **[Ton Prénom]** from **[Ton Pays]**.
+I'm **Enzo** from **France**.
 
-- 🔭 I’m working as **[Ton Poste]**
-- 📚 I'm currently learning **[Ce que tu apprends]**
-- ⚡ In my free time I **[Tes hobbies]**
+- 🔭 I’m studying at **Coda school**
+- 📚 I'm currently learning **different languages such as C, PHP, HTML, CSS**
+- ⚡ In my free time I **play video games**
 
 ---
 
 ### 🛠 Languages and Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
+  <img src="https://imgs.search.brave.com/R9jSzE43FkkBhdjv96nFNyqxUTCm1MAdo-VdKkZNviQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ1LzEvYy1sYW5n/dWFnZS1sb2dvLXBu/Z19zZWVrbG9nby00/NTg2MjMucG5n" height="40" alt="logo c" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" />
+  <img src="https://imgs.search.brave.com/fZz_tdX2GLpxlxOQRHx50axqMN4WtuBGXk8qkjmhAog/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy84MWRlZWY3Mi1j/Zjg1LTRlN2MtYWUw/YS01MDJhMWU1YWE4/OTcvcGhwLnN2Zw" height="40" alt="php logo" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo" />
   &nbsp;&nbsp;
