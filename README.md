@@ -12,9 +12,8 @@
 
 <br>
 
-<div align="center">
+<div align="center-left">
   <h1>Hello there 👋</h1>
-  <div align="center-left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlmZDhqY25tMjVoaWdub3p6b3FmbTQ5M3pzY3JuMTl1NXNna2Z2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7JC7bCJJGj44aBwB8p/giphy.gif" height="100" alt="général kénobi gif" />
     
 </div>
